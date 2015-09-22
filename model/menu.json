@@ -4,6 +4,11 @@
         "icon": "sap-icon://list",
         "targetPage": "CoffeeList",
         "description": "Coffee Menu"
+     },   {
+        "title": "NW",
+        "icon": "sap-icon://sys-help",
+        "targetPage": "NW",
+        "description": "You little bah"
     }, {
         "title": "New Features v1.22",
         "icon": "sap-icon://favorite",

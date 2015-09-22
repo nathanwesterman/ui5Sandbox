@@ -62,8 +62,15 @@ sap.ui.jsview("ui5bp.view.App", {
             this.app.addDetailPage(sap.ui.jsview("Launchpad", "ui5bp.view.Launchpad"));
         }
         this.app.addDetailPage(sap.ui.xmlview("Info", "ui5bp.view.Info"));
+<<<<<<< HEAD
+        this.app.addDetailPage(sap.ui.xmlview("NW", "ui5bp.view.NW"));
         this.app.addDetailPage(sap.ui.jsview("CoffeeList", "ui5bp.view.CoffeeList"));
         this.app.addDetailPage(sap.ui.jsview("NewFeatures-v122", "ui5bp.view.NewFeatures-v122"));
+        
+=======
+        this.app.addDetailPage(sap.ui.jsview("CoffeeList", "ui5bp.view.CoffeeList"));
+        this.app.addDetailPage(sap.ui.jsview("NewFeatures-v122", "ui5bp.view.NewFeatures-v122"));
+>>>>>>> e24c80bc1c0aad6f246f8af8f02a4071e9f95749
         
         // navigate to the first page in both master and detail areas.
         // the toMaster must be called after calling the toDetail, because both of them point to the same reference in phone and 

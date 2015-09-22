@@ -1,0 +1,45 @@
+{
+  "run": [
+    {
+      "filePath": "/ui5Sandbox/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "_metadata": {
+        "id": 6944626,
+        "runnerId": "webapprunner",
+        "displayName": "Sandbox"
+      }
+    },
+    {
+      "filePath": "/ui5Sandbox/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "id": 2637151,
+        "runnerId": "webapprunner",
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
